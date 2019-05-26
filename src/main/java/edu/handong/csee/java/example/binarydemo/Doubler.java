@@ -1,3 +1,4 @@
+
 package edu.handong.csee.java.example.binarydemo;
 
 import java.io.EOFException;
